@@ -10,3 +10,7 @@
 
 3. Put
 <img width="1919" height="1079" alt="Screenshot 2025-10-29 120334" src="https://github.com/user-attachments/assets/16f08f59-82df-4713-a7a4-4f54e5e9fcaf" />
+
+4. Delete
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9b2ae83c-ceea-44b3-9483-f7a89d0a239e" />
+
